@@ -20,8 +20,11 @@
 
     <!-- Main Content -->
     <section id="home">
-        <h1>Welcome to My Portfolio</h1>
+        <h1>Portfolio By Richard E Syverson</h1>
         <p>This is a simple website to showcase my projects and skills.</p>
+        <P>I am currently in the MSSA Microsoft skillbridge program, and this is my  
+            first project. </P>
+            <p> This will contain all additional projects i will make in the future.</p>
     </section>
 
     <section id="about">
